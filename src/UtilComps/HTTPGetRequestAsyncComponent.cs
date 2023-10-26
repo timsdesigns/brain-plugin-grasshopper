@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Net;
-using System.Threading.Tasks;
-using Brain.Templates;
+﻿using Brain.Templates;
 using Grasshopper.Kernel;
-using Rhino;
-using Rhino.Geometry;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.Tab;
+using System;
 
 namespace Brain.UtilComps
 {
